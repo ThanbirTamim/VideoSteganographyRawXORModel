@@ -1,0 +1,13 @@
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\bin\Debug\VideoStaganographyImtiaz.exe.config
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\bin\Debug\VideoStaganographyImtiaz.exe
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\bin\Debug\VideoStaganographyImtiaz.pdb
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.csproj.AssemblyReference.cache
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.Form1.resources
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.Properties.Resources.resources
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.csproj.GenerateResource.cache
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.csproj.CoreCompileInputs.cache
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.exe
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.pdb
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\bin\Debug\BetterFolderBrowser.dll
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\bin\Debug\BetterFolderBrowser.xml
+D:\.NET\VideoSteganographyImtiaz\VideoStaganographyImtiaz\VideoStaganographyImtiaz\obj\Debug\VideoStaganographyImtiaz.csproj.CopyComplete
